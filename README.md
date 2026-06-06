@@ -36,9 +36,7 @@ This project was developed as an Information Security (IS) academic project to d
 
 ## Contributors
 
-- Your Name
-- Friend's Name
+Muhammad Abdullah
+Abdul sami abbasi
 
-## Disclaimer
 
-This project is for educational purposes only.
